@@ -5,7 +5,7 @@ background-color:blue;
 
 Estilizar o título principal do seu site
  h1{
-color:black ;
+color:rgb(0, 0, 0) ;
 font-family: Arial, Helvetica, sans-serif;
 text-align:center;
 }
@@ -15,4 +15,6 @@ p{
 color:black ;
 font-size:25px ;
 
-}
+text-aling:center;
+
+
