@@ -4,16 +4,21 @@ background-color:blanchedalmond;
 
 }
 h1{
-    color: red;
+    color: rgb(245, 12, 12);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font: 50px;
 }
 p{
-    color: green;
+    color: rgb(21, 190, 21);
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     text-align: center;
+}
+.container{
+    width: 20%;
+    margin: 0 auto;
+    font-size: 30px;
 }
 
 
